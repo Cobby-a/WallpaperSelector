@@ -126,9 +126,7 @@ flutter build linux --release
 
 
 ## 📸 Screenshots
-![HomePage](assets/screenshots/home.png)
-![BrowsePage](assets/screenshots/browse.png)
-![FavouritePage](assets/screenshots/favourite.png)
-![PreviewPage](assets/screenshots/preview.png)
+![HomePage](assets/screenshots/home.png) ![BrowsePage](assets/screenshots/browse.png)
+![FavouritePage](assets/screenshots/favourite.png) [PreviewPage](assets/screenshots/preview.png)
 ![PreviewSetActive](assets/screenshots/preview1.png)
 ![HomePagewithActiveWallpaper](assets/screenshots/active.png)
